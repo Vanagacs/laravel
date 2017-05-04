@@ -88,6 +88,7 @@
                     <a href="#News">News</a>
                     <a href="#Forge">Forge</a>
                     <a href="#GitHub">GitHub</a>
+                    <a href="/test">Test Page</a>
                 </div>
             </div>
         </div>
